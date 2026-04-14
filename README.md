@@ -180,6 +180,12 @@ customer-churn-prediction/
 ├── README.md
 └── requirements.txt
 ```
+---
+##  Screen Shots
+<img width="1024" height="677" alt="image" src="https://github.com/user-attachments/assets/e7b86e1f-e960-4f0f-bd88-9ebf126cc288" />
+<img width="1015" height="717" alt="image" src="https://github.com/user-attachments/assets/493b772f-b5ff-4820-9fa2-0def594237ca" />
+<img width="904" height="720" alt="image" src="https://github.com/user-attachments/assets/d03011f5-21c9-45fe-ba7b-1f47836f4c8c" />
+
 
 ---
 
